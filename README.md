@@ -5,6 +5,10 @@ exe file only nft collection generator
 I WON'T PROVIDE SOURCE CODE, FUKCERS, IDON'T WANT TO RUIN BUSINESS FOR THESE ONLINE NFT GENERATORS!!!
 
 
+Download: https://github.com/micegan/NftCollectionGenerator-exe/raw/main/nftcollgen.exe
+
+
+
 ma twitter: https://twitter.com/MiceganA
 
 
