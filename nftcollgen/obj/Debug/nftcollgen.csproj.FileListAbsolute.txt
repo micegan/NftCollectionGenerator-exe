@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\nftcollgen\nftcollgen\bin\Debug\nftcollgen.exe.config
+C:\Users\User\source\repos\nftcollgen\nftcollgen\bin\Debug\nftcollgen.exe
+C:\Users\User\source\repos\nftcollgen\nftcollgen\bin\Debug\nftcollgen.pdb
+C:\Users\User\source\repos\nftcollgen\nftcollgen\obj\Debug\nftcollgen.csprojAssemblyReference.cache
+C:\Users\User\source\repos\nftcollgen\nftcollgen\obj\Debug\nftcollgen.Form1.resources
+C:\Users\User\source\repos\nftcollgen\nftcollgen\obj\Debug\nftcollgen.Properties.Resources.resources
+C:\Users\User\source\repos\nftcollgen\nftcollgen\obj\Debug\nftcollgen.csproj.GenerateResource.cache
+C:\Users\User\source\repos\nftcollgen\nftcollgen\obj\Debug\nftcollgen.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\nftcollgen\nftcollgen\obj\Debug\nftcollgen.exe
+C:\Users\User\source\repos\nftcollgen\nftcollgen\obj\Debug\nftcollgen.pdb
