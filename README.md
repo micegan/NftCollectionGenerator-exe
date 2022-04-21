@@ -9,4 +9,4 @@ C# Source file: https://github.com/micegan/NftCollectionGenerator-exe/blob/main/
 
 Download: https://github.com/micegan/NftCollectionGenerator-exe/raw/main/nftcollgen.exe
 
-ma twitter: https://twitter.com/MiceganA
+my twitter: https://twitter.com/MiceganA
